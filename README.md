@@ -35,4 +35,4 @@ AgroPest-12 (TODO-CONFIRM source URL and licence). Not redistributed here.
 
 ## Contributors
 
-Bingcheng (Bensen) Liu (model training lead) · TODO-NAMES
+Team project; my part is described above.
