@@ -31,7 +31,7 @@ Python · Ultralytics YOLOv8 · PyTorch · scikit-learn · OpenCV · Google Cola
 
 ## Data
 
-AgroPest-12 (TODO-CONFIRM source URL and licence). Not redistributed here.
+AgroPest-12 (Majumdar, 2025), Kaggle: https://www.kaggle.com/datasets/rupankarmajumdar/crop-pests-dataset — see the dataset page for licence terms. Not redistributed here.
 
 ## Contributors
 
